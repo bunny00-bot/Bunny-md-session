@@ -58,14 +58,9 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_BUNNY_MD-Vo.1 Connected*
-*_|_________________/
-__/__|________|__|__
-/⭕⭕_________⭕⭕\
-l__/___ 🄶🅃🅁___|____|
-|🔥🔥__|_|_|_|_|_/🔥🔥_*
 ______________________________________
 ╔════════════════════════◇
-║ *『 AMAZING YOU'VE CHOSEN BUNNY_MD-V0.1』*
+║ *『 AMAZING YOU'VE CHOSEN BUNNY_MD-V1』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════════════════════════◇
@@ -73,12 +68,12 @@ ______________________________________
 ║❒ CHANNEL 👉 https://whatsapp.com/channel/0029Vb5HhRAFi8xggoraw43G
 ║❒ GROUP 👉 https://chat.whatsapp.com/C1FYBUTABqe9J7fh3jp55r
 ║❒ CONTACT ME  +263771528985
-║❒ REPO 👉 https://github.com/bunny00-bot/Bunny-xmd.git
+║❒ REPO 👉 https://github.com/bunny00-bot/BUNNY-MD-V1-.git
 ╚══════════════════════════╝
 _____________________________________
 
 _Don't Forget To Give Star To My Repo😌_
-                                        ®Anony Dev`
+                                        ®BUNNY`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 

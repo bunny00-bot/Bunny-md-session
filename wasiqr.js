@@ -59,20 +59,23 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected*
-*_Made With 🤍_*
+*_BUNNY_MD-Vo.1 Connected*
 ______________________________________
-╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ANONYMOUS』*
+╔════════════════════════◇
+║ *『 AMAZING YOU'VE CHOSEN BUNNY_MD-V1』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
-╔═════◇
+╔═════════════════════════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 
-╚════════════════════════╝
+║❒ CHANNEL 👉 https://whatsapp.com/channel/0029Vb5HhRAFi8xggoraw43G
+║❒ GROUP 👉 https://chat.whatsapp.com/C1FYBUTABqe9J7fh3jp55r
+║❒ CONTACT ME  +263771528985
+║❒ REPO 👉 https://github.com/bunny00-bot/BUNNY-MD-V1-.git
+╚══════════════════════════╝
 _____________________________________
-	
-_Don't Forget To Give Star To My Repo_`
+
+_Don't Forget To Give Star To My Repo😌_
+                                        ®BUNNY`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
 
 
