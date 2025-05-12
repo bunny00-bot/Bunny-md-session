@@ -66,15 +66,15 @@ router.get('/', async (req, res) => {
 *_BUNNY_MD-Vo.1 Connected!_*
 ______________________________________
 ╔════════════════════════◇
-║ *『 AMAZING YOU'VE CHOSEN BUNNY_MD-V1』*
+║ *『 AMAZING YOU'VE CHOSEN BUNNY_MD-V2』*
 ║ _You Have Completed the First Step to Deploy a WhatsApp Bot._
 ╚════════════════════════╝
 ╔═════════════════════════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ CHANNEL 👉 https://whatsapp.com/channel/0029Vb5HhRAFi8xggoraw43G
+║❒ CHANNEL 👉 https://whatsapp.com/channel/0029Vau8DkEKQuJDdvKOek15
 ║❒ GROUP 👉 https://chat.whatsapp.com/C1FYBUTABqe9J7fh3jp55r
 ║❒ CONTACT ME  +263771528985
-║❒ REPO 👉 https://github.com/bunny00-bot/BUNNY-MD-V1-.git
+║❒ REPO 👉 https://github.com/bunny00-bot/bunny-md-v2.git
 ╚══════════════════════════╝
 _____________________________________
 
